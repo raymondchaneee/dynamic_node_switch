@@ -1,0 +1,5 @@
+<launch>
+
+	<node name="dynamic_node_switch" pkg="dynamic_node_switch" type="dynamic_node_switch_node.py" output="screen"/>
+    
+</launch>
